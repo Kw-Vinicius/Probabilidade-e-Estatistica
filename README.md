@@ -18,5 +18,5 @@ Analise de dados das olimpiadas de 1896 a 2016
 ## Exemplos de plots:
 <img src="https://github.com/Kw-Vinicius/Probabilidade-e-Estatistica/blob/master/Imagens/img3.png" width = "1000" height="500">
 
-<img src="https://github.com/Kw-Vinicius/Probabilidade-e-Estatistica/blob/master/Imagens/imagem.png" width = "1000" height="500">
+<img src="https://github.com/Kw-Vinicius/Probabilidade-e-Estatistica/blob/master/Imagens/imagem.png" width = "1000" height="400">
 
