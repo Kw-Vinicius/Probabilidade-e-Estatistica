@@ -1,2 +1,2 @@
-# Probabilidade-e-Estatistica---Data-Science
+# Probabilidade e Estatistica / Data Science
 Trabalho de Probabilidade e Estatistica com Data Science
