@@ -13,5 +13,5 @@ Analise de dados das olimpiadas de 1896 a 2016
 - Calculo de média, moda e mediana.
 - Analise de medalhas ganhas por ano, gênero e país.
 - Plot de gráfico de barras, boxplot, subplot, kdeplot.
-
+- Participação nas olimpiadas por gênero x ano
 
