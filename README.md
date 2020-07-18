@@ -1,5 +1,6 @@
 # Probabilidade e Estatistica / Data Science
 Trabalho de Probabilidade e Estatistica com Data Science
+
 Analise de dados das olimpiadas de 1896 a 2016
 ## Linguagem utilizada: 
 - Python
