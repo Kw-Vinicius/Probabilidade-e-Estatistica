@@ -16,3 +16,4 @@ Analise de dados das olimpiadas de 1896 a 2016
 - Participação nas olimpiadas por gênero x ano
 
 ![](https://github.com/Kw-Vinicius/Probabilidade-e-Estatistica/blob/master/Imagens/imagem.png)
+![](https://github.com/Kw-Vinicius/Probabilidade-e-Estatistica/blob/master/Imagens/img3.png)
